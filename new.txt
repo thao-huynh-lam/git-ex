@@ -1,0 +1,5 @@
+Creating a Branch from a Tag
+
+Much like creating a branch from a commit, you can also create a branch from a tag. This is especially useful since tags are, in my opinion, a better way to reference a certain point in a project's history.
+
+So if you have created tags throughout your project's history, you can create a new branch just like before, but with a tag as the identifier.
